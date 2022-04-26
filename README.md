@@ -1,2 +1,2 @@
-# Needs-Prototype
-Northwest Normal University Software Engineering Experiment VI
+## Software Engineering Experiment III
+Group Project: Needs and Prototype.
